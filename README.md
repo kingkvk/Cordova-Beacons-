@@ -1,0 +1,2 @@
+# Cordova-Beacons-
+Eddystone Scanning
